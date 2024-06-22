@@ -19,7 +19,7 @@ app.debug = False
 # 视频缓存目录
 VIDEO_CACHE_DIR = './video_cache'
 # 代理服务器地址
-PROXY_SERVER = 'http://127.0.0.1:7890'
+PROXY_SERVER = 'http://127.0.0.1:57891'
 # 原始服务器地址，所有未被拦截的请求将转发到这里
 ORIGINAL_SERVER = 'https://jd.pypy.moe'
 # 代理组合
